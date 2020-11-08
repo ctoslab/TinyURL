@@ -1,0 +1,12 @@
+C:\Users\FROST\source\repos\TinyURL\TinyURL\bin\Debug\TinyURL.exe.config
+C:\Users\FROST\source\repos\TinyURL\TinyURL\bin\Debug\TinyURL.exe
+C:\Users\FROST\source\repos\TinyURL\TinyURL\bin\Debug\TinyURL.pdb
+C:\Users\FROST\source\repos\TinyURL\TinyURL\bin\Debug\TinyURL.xml
+C:\Users\FROST\source\repos\TinyURL\TinyURL\obj\Debug\TinyURL.vbprojAssemblyReference.cache
+C:\Users\FROST\source\repos\TinyURL\TinyURL\obj\Debug\TinyURL.Form1.resources
+C:\Users\FROST\source\repos\TinyURL\TinyURL\obj\Debug\TinyURL.Resources.resources
+C:\Users\FROST\source\repos\TinyURL\TinyURL\obj\Debug\TinyURL.vbproj.GenerateResource.cache
+C:\Users\FROST\source\repos\TinyURL\TinyURL\obj\Debug\TinyURL.vbproj.CoreCompileInputs.cache
+C:\Users\FROST\source\repos\TinyURL\TinyURL\obj\Debug\TinyURL.exe
+C:\Users\FROST\source\repos\TinyURL\TinyURL\obj\Debug\TinyURL.xml
+C:\Users\FROST\source\repos\TinyURL\TinyURL\obj\Debug\TinyURL.pdb
