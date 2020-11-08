@@ -2,7 +2,7 @@
 
 This tool will help you to create the perfect short URLs for your projects. it's very simple to use.
 
-<img src="screenshots/TinyURL.png" width=400 align="center">
+<img src="/Screenshots/TinyURL.png" width=400 align="center">
 
 ### ❗ What is this ?
 
